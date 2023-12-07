@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>vprofile-pipeline</id>
-      <url>http://13.232.175.38:8081/repository/vprofile-pipeline/</url>
+      <url>http://13.232.175.38:8081/repository/vprofile-pipeline</url>
     </repository>
   </repositories>
 </project>
